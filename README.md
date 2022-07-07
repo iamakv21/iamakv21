@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="70"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Ashish Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img
